@@ -19,23 +19,24 @@ dpcks9893@naver.com <br><br><br>
 
 
 ## 🛠 Tech Stack 
-[![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white)](https://www.oracle.com/java/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)](https://developer.android.com/studio)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)&nbsp;<br>
-[![GPT Prompt Engineering](https://img.shields.io/badge/GPT_Prompt_Engineering-00B294?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com/)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
-[![AWS](https://img.shields.io/badge/AWS-EF2D5E?style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://aws.amazon.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+[![Java](https://img.shields.io/badge/Java-FF3333?style=for-the-badge&logo=Java&logoColor=white)](https://www.oracle.com/java/)&nbsp;
+[![Kotlin](https://img.shields.io/badge/Kotlin-FF8533?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)&nbsp;
+[![C#](https://img.shields.io/badge/C%23-FFDB58?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;
+[![Python](https://img.shields.io/badge/Python-FF33B5?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)&nbsp;
+[![SQL](https://img.shields.io/badge/SQL-3399FF?style=for-the-badge&logo=SQL&logoColor=white)](https://www.w3schools.com/sql/)&nbsp;<br>
 
+[![Android Studio](https://img.shields.io/badge/Android_Studio-33FF5D?style=for-the-badge&logo=AndroidStudio&logoColor=white)](https://developer.android.com/studio)&nbsp;
+[![Flask](https://img.shields.io/badge/Flask-9F33FF?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)&nbsp;
+[![GPT Prompt Engineering](https://img.shields.io/badge/GPT_Prompt_Engineering-33FFC1?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com/)&nbsp;
+
+[![AWS](https://img.shields.io/badge/AWS-FF3366?style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://aws.amazon.com/)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-3366FF?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-33FFFA?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)&nbsp;
  <br/>
 
 ## :pencil2: Study log
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-
+![Yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyechan9893&show_icons=true&theme=cobalt)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=200&section=footer)
 </div>
