@@ -33,10 +33,15 @@ dpcks9893@naver.com <br><br><br>
 [![Docker](https://img.shields.io/badge/Docker-3366FF?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)&nbsp;
 [![Notion](https://img.shields.io/badge/Notion-33FFFA?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)&nbsp;
- <br/>
+<br/><br/><br/><br/>
 
 ## :pencil2: Study log
 ![Yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyechan9893&show_icons=true&theme=cobalt)
+<br/><br/><br/><br/>
+
+## 📈: Most Languges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunyechan9893)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=200&section=footer)
 </div>
