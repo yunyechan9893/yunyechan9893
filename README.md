@@ -45,3 +45,10 @@ dpcks9893@naver.com <br><br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=200&section=footer)
 </div>
+
+
+
+## Private & Public Repositories
+<p align="center">
+  <img src="https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f)https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f" alt="이미지 설명">
+</p>
