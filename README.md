@@ -14,9 +14,14 @@
  <br/>
 
 #### ✉️Email✉️
-dpcks9893@naver.com <br><br><br>
-<br>
+dpcks9893@naver.com 
+<br><br>
 
+#### 📅ToDo Plan📅
+<a href="https://www.notion.so/Today-s-tasks-8106e59f4b364d409039acfddb9e31b1">
+    <img src="https://lirp.cdn-website.com/569d015a/dms3rep/multi/opt/1-1a29b886-1920w.png" width="100" height="55" alt="N|notion" />
+</a><br><br><br>
+<br>
 
 ## 🛠 Tech Stack 
 [![Java](https://img.shields.io/badge/Java-FF3333?style=for-the-badge&logo=Java&logoColor=white)](https://www.oracle.com/java/)&nbsp;
@@ -44,11 +49,10 @@ dpcks9893@naver.com <br><br><br>
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=200&section=footer)
-</div>
-
-
 
 ## Private & Public Repositories
 <p align="center">
   <img src="https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f)https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f" alt="이미지 설명">
 </p>
+
+</div>
