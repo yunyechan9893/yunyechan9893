@@ -52,7 +52,8 @@ dpcks9893@naver.com
 
 ## Private & Public Repositories
 <p align="center">
-  <img src="https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f)https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f" alt="이미지 설명">
+  <img src="https://github.com/yunyechan9893/yunyechan9893/assets/125535111/a78428b8-456c-41b8-b996-014c90aa0378)https://github.com/yunyechan9893/yunyechan9893/assets/125535111/fe42fc18-82e0-4f41-8b48-082514a1374f" alt="이미지 설명">
 </p>
+![image]()
 
 </div>
